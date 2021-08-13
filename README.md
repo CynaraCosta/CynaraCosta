@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oie 👋
+
+![Alt Text](https://maisgeek.com/wp-content/uploads/2020/10/Invincible-dinosaur-gif.pagespeed.ce_.uANcoEkGMF-2.gif)
+
 
 <!--
 **CynaraCosta/CynaraCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
