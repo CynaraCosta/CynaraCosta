@@ -17,7 +17,7 @@
 
 
 <p align="center">
- <a href="https://github.com/CynaraCosta" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/CynaraCosta" target="_blank" rel="noopener noreferrer"> <img src="http://rajlab.org/icons/github_white.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/cynara-costa-bba1271a2/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="cvocac@cin.ufpe.br"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
