@@ -17,7 +17,6 @@
 
 
 <p align="center">
- <a href="https://github.com/CynaraCosta" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/cynara-costa-bba1271a2/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/metro/452/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="cvocac@cin.ufpe.br"> <img src="https://freepngimg.com/download/gmail/66478-logo-icons-computer-email-gmail-free-clipart-hq.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
