@@ -10,7 +10,7 @@
 ## 👩🏻‍💻 I'm an Computer Science student at UFPE
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning pandas.
+- 🌱 I’m currently learning Swift.
 - ⚡ Fun fact: I love Shingeki no Kyojin and Vava a.k.a Valorant.
 
 ## ✉️ Find me on:
