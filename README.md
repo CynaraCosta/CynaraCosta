@@ -7,7 +7,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CynaraCosta.CynaraCosta)
 [![Github](https://img.shields.io/github/followers/CynaraCosta?label=Follow&style=social)](https://github.com/CynaraCosta)
 
-## 👩🏻‍💻 I'm an Computer Science student at UFPE
+## 👩🏻‍💻 I'm an Computer Science student at UFPE, and student at Apple Developer Academy 
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Swift.
