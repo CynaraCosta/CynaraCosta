@@ -10,7 +10,7 @@
 ## 👩🏻‍💻 I'm an Computer Science student at UFPE, and student at Apple Developer Academy 
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Swift by SwiftUI and UIKit.
 - ⚡ Fun fact: I love Shingeki no Kyojin and Vava a.k.a Valorant.
 
 ## ✉️ Find me on:
