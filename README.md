@@ -5,7 +5,6 @@
 
 ## 👾 Hi there, I'm Cynara!
 
-
 ## 👩🏻‍💻 I'm an Computer Science student at UFPE, and student at Apple Developer Academy 
 
 - 🔭 I’m currently working on personal projects.
