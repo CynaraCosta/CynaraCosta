@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Swift by SwiftUI and UIKit.
-- ⚡ Fun fact: I love Shingeki no Kyojin and Vava a.k.a Valorant.
 
 ## ✉️ Find me on:
 
