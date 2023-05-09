@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Swift by SwiftUI and UIKit.
-- 🎖 Also WWDC22 Scholarship Winner.
+- 🎖 Also WWDC22 and WWDC23 Scholarship Winner.
 
 ## ✉️ Find me on:
 
