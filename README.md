@@ -5,10 +5,10 @@
 
 ## 👾 Hi there, I'm Cynara!
 
-## 👩🏻‍💻 I'm an Computer Science student at UFPE, and student at Apple Developer Academy 
+## 👩🏻‍💻 I'm an Computer Science student at UFPE, student at Apple Developer Academy and Intern at XP Inc.
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Swift by SwiftUI and UIKit.
+- 🌱 I’m currently learning Swift by SwiftUI and UIKit, and Flutter.
 - 🎖 Also WWDC22 and WWDC23 Scholarship Winner.
 
 ## ✉️ Find me on:
