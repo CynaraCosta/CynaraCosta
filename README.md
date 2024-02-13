@@ -3,7 +3,7 @@
 ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
-## 👾 Hi there, I'm Cynara!
+## 👾 Hi there, I'm Cynara Costa!
 
 ## 👩🏻‍💻 I'm an Computer Science student at UFPE, and Intern at XP Inc.
 
