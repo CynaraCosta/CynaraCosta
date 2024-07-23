@@ -5,7 +5,7 @@
 
 ## 👾 Hi there, I'm Cynara Costa!
 
-## 👩🏻‍💻 I'm an Computer Science student at UFPE, and Intern at XP Inc.
+## 👩🏻‍💻 I'm an Computer Science student at UFPE, and Software Engineer at XP Inc.
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Swift by SwiftUI and UIKit, and Flutter.
